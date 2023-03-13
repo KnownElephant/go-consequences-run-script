@@ -14,7 +14,8 @@ main
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-data/
+data/*
+!data/.gitkeep
 .devcontainer/
 ouput/*
 
