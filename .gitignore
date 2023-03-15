@@ -20,6 +20,7 @@ data/*
 ouput/*
 
 !output/.gitkeep
+data.7z
 
 # General output from testing.
 *.db
