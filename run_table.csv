@@ -1,0 +1,16 @@
+Simulation Name,Description,Structure Inventory File,WSE File,Model Result Output File
+Katrina (2005),"Amite LWI HEC-RAS Model results for Hurricane Katrina using AORC rainfall with Wind and Surge using an 8 segment downstream boundary informed by ADCIRC, and with upstream boundary conditions informed by HEC-HMS.
+
+The structures inventory file is based on the USACE National Inventory Structures  (https://www.hec.usace.army.mil/confluence/nsi/userguides/download-tool 
+
+All data paths are relative to the LWI S3 bucket with the root path being: LWI/Models/Go-Consequences/Amite",./data/NSI.shp,./data/Amite_Katrina2005_AORC_ADCIRC_2021Geometry.tif,./output/Amite_Katrina2005_AORC_ADCIRC_2021Geometry_NSI.gpkg
+Issac (2012),"Amite LWI HEC-RAS Model results for Hurricane Isaac using AORC rainfall with Wind and Surge using an 8 segment downstream boundary informed by ADCIRC, and with upstream boundary conditions informed by HEC-HMS.
+
+The structures inventory file is based on the USACE National Inventory Structures  (https://www.hec.usace.army.mil/confluence/nsi/userguides/download-tool 
+
+All data paths are relative to the LWI S3 bucket with the root path being: LWI/Models/Go-Consequences/Amite",./data/NSI.shp,./data/Amite_Isaac2012_AORC_ADCIRC_NoWind_2022Geometry.tif,./output/Amite_Isaac2012_AORC_ADCIRC_NoWind_2022Geometry_NSI.gpkg
+Gustav (2008),"Amite LWI HEC-RAS Model results for Hurricane Gustav using AORC rainfall with Wind and Surge using an 8 segment downstream boundary informed by ADCIRC, and with upstream boundary conditions informed by HEC-HMS.
+
+The structures inventory file is based on the USACE National Inventory Structures  (https://www.hec.usace.army.mil/confluence/nsi/userguides/download-tool 
+
+All data paths are relative to the LWI S3 bucket with the root path being: LWI/Models/Go-Consequences/Amite",./data/NSI.shp,./data/Amite_Gustav2008_AORC_ADCIRC_2022Geometry.tif,./output/Amite_Gustav2008_AORC_ADCIRC_2022Geometry_NSI.gpkg
