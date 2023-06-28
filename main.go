@@ -26,7 +26,7 @@ func main() {
 	}
 
 	//define result file, provide file path where you want results to be saved
-	results, c := resultswriters.InitGpkResultsWriter("./output/result_file.gpkg", "event_results")
+	results, c := resultswriters.InitGpkResultsWriter_Projected("./output/result_file_9822.gpkg", "event_results", 9822)
 	if c != nil {
 		panic(c)
 	}
